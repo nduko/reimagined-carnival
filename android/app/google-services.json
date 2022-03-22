@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746457818353",
+    "project_id": "molten-muse-343920",
+    "storage_bucket": "molten-muse-343920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746457818353:android:6b3d777dac7b87e0a13550",
+        "android_client_info": {
+          "package_name": "com.skootta.skootta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746457818353-og390nvmr3r57hmjba9ka95r9d0miatc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skootta.skootta",
+            "certificate_hash": "71cf00630bb35580139617e525b7dd05623f3140"
+          }
+        },
+        {
+          "client_id": "746457818353-k7dlkgrlooef5ssut6vqpr6s35jhna7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd7UBKLEo651kYeB-qa3ROCaq8q_mvUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746457818353-k7dlkgrlooef5ssut6vqpr6s35jhna7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
